@@ -1,4 +1,4 @@
-# hello-world
+# Vue-Js-Simple-Countdown-Timer-App
 
 ## Project setup
 ```
